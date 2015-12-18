@@ -1,0 +1,12 @@
+# TimeAxis
+由于工作中需要，系统中需要记录不同时间发生的事件，为了提升用户体验，决定用时光轴来实现。[据说这个东西挺火的，QQ空间和FB都在用...]
+
+# 写在后面
+    刚开始决定写时光轴的时候，在网上到处找jQuery插件，后来在三生石的博客里面看见了他写的文章，点醒了我，这种功能，完全可以自己纯手写的，动画并不复杂，而且网上的jQuery插件有的太臃肿。结果，一上午就写完了，事实证明，靠自己还是行的通的！
+    由于这个模块是自己完全手写的，今后需要修改，可以很方便进行修改！要是用的网上的jQuery的插件，那可就惨了...
+
+# 图示
+    操作演示
+![github](https://github.com/CBDlkl/TimeAxis/blob/master/images/2.gif "github")
+    整体效果
+![github](https://github.com/CBDlkl/TimeAxis/blob/master/images/2.png "github")
