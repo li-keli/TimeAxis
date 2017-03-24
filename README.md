@@ -14,7 +14,7 @@
 # 图示
 
     操作演示
-![github](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.gif?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10 "github")
+![操作演示](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.gif?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10)
 
     整体效果
-![github](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.png?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10 "github")
+![整体效果](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.png?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10)
