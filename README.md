@@ -10,12 +10,11 @@
     刚开始决定写时光轴的时候，在网上到处找jQuery插件，后来在三生石的博客里面看见了他写的文章，点醒了我，
     这种功能，完全可以自己纯手写的，动画并不复杂，而且网上的jQuery插件有的太臃肿。结果，一上午就写完了，
     事实证明，靠自己还是行的通的！
-    由于这个模块是自己完全手写的，今后需要修改，可以很方便进行修改。
     
 # 图示
 
     操作演示
-![github](https://github.com/CBDlkl/TimeAxis/blob/master/images/2.gif "github")
+![github](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.gif?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10 "github")
 
     整体效果
-![github](https://github.com/CBDlkl/TimeAxis/blob/master/images/2.png "github")
+![github](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.png?image/resize,m_lfit,h_400,limit_0/auto-orient,0/sharpen,100/quality,q_90/watermark,text_5oSk5oCS55qEVHJ5Q2F0Y2ggaHR0cDovL3d3dy5jbmJsb2dzLmNvbS9saWtlbGk,type_d3F5LXplbmhlaQ,size_20,t_100,color_c9e67a,g_se,y_10,x_10 "github")
