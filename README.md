@@ -14,7 +14,7 @@
 # 图示
 
     操作演示
-![show](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.gif)
+![show](images/2.gif)
 
     整体效果
-![show](http://oss.likeli.xin/Blog/2017%E5%B9%B43%E6%9C%8824%E6%97%A5/2.png)
+![show](images/2.png)
