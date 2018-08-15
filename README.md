@@ -3,7 +3,7 @@
     基于jQuery实现的时光轴，左侧有一个缩小的时间选择器，快速向上的箭头。
     
 # Download
-   https://github.com/CBDlkl/TimeAxis/releases
+   https://github.com/li-keli/TimeAxis/releases
     
 # 图示
 
